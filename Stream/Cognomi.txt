@@ -1,0 +1,11 @@
+
+Nome: Matteo
+Cognome: De Persis
+Altezza: 1.75
+MediaVoti: 6.0
+Classe: 4C
+Nome: gioele
+Cognome: Cella
+Altezza: 1.79
+MediaVoti: 4.0
+Classe: 4C
